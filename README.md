@@ -11,8 +11,8 @@ The app is a straightforward single-screen application designed to display vario
 - **Responsive Design:** The user interface is responsive, ensuring a seamless experience across different devices and screen sizes.
 
 ## Screenshots
-![Screenshot 1]("/public/Screenshot%202023-12-21%20at%208.5214%E2%80%AFPMpng") 
-![Screenshot 1]("/public/Screenshot%202023-12-21%20at%208.52.54%E2%80%AFPM.png") 
+![Screenshot 1](/public/Screenshot%202023-12-21%20at%208.5214%E2%80%AFPMpng) 
+![Screenshot 1](/public/Screenshot%202023-12-21%20at%208.52.54%E2%80%AFPM.png) 
 
 ## Getting Started
 
