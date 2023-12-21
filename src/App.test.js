@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test('finds element by ARIA label', () => {
+  const { getByTestId } = render(<App />);
+  const element = getByTestId('flavnoids'); // Replace with your actual data-testid value
+  expect(element).toBeInTheDocument();
 });
